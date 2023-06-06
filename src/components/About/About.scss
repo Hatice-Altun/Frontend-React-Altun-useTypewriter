@@ -1,0 +1,17 @@
+:root{
+  --primaryColor: #5890b4;
+  --primaryHover: #497896;
+  --secHoverColor: #253b53;
+  --greyColor: #f7f7f7;
+}
+
+.about {
+  .secTitle{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    color: var(--primaryColor);
+    margin-top: 200px;
+  }
+}
+
